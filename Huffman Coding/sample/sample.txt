@@ -1,0 +1,13 @@
+Hello world! This is a sample text file for testing the Huffman coding program.
+
+It contains various characters including:
+- Uppercase letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Lowercase letters: abcdefghijklmnopqrstuvwxyz
+- Numbers: 1234567890
+- Special characters: !@#$%^&*()_+-=[]{}|;':\",./<>?
+- Spaces and punctuation.
+
+The quick brown fox jumps over the lazy dog.
+Programming is fun and challenging!
+
+This text should provide enough variety for demonstrating the Huffman coding algorithm's effectiveness in compressing text based on character frequency.
